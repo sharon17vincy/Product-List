@@ -107,7 +107,6 @@ class _StockEditPageState extends State<ProductAddPage> {
                   return Container(
                       child: Column(
                     crossAxisAlignment: CrossAxisAlignment.center,
-                          mainAxisSize: MainAxisSize.min,
                     children: <Widget>[
                       Padding(
                           padding: EdgeInsets.only(top: 20, bottom: 16),
